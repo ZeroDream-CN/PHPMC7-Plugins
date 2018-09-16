@@ -1,0 +1,9 @@
+{
+	"main":"API",
+	"package":"com.phpmc.api",
+	"author":"Akkariin",
+	"website":"https://www.akkariin.com/",
+	"config": {
+		"token":"123456789"
+	}
+}
